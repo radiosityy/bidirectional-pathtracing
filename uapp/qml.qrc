@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>RenderingPage.qml</file>
+        <file>ImagePage.qml</file>
+        <file>ImagePagePanel.qml</file>
+        <file>PresentWindow.qml</file>
+        <file>RenderingPageTextField.qml</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
